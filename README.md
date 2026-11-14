@@ -1,6 +1,6 @@
-<!-- 1. YOUR 3D BANNER (Replace the src link below with your uploaded image link) -->
+<!-- 1. YOUR CUSTOM 3D BANNER -->
 <div align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Om Labhade" width="100%" style="border-radius: 15px;" />
+  <img src="3d-banner.png" alt="Om Labhade" width="100%" style="border-radius: 15px;" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
 
 <br/>
 
-<!-- 5. SLEEK PROJECT GRID -->
+<!-- 5. SLEEK PROJECT GRID (WITH PRAVAHA) -->
 <h3 align="center">🚀 What I'm Building</h3>
 <table align="center" width="100%" style="border: none;">
   <tr>
@@ -45,6 +45,13 @@
       <h3>🏪 <a href="#" style="color: #10B981; text-decoration: none;">BhavIQ</a></h3>
       <p>High-performance desktop POS & store management built for high-frequency offline retail transactions.</p>
       <code>Rust</code> <code>Tauri</code> <code>C</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <h3>🎓 <a href="#" style="color: #10B981; text-decoration: none;">Pravaha</a></h3>
+      <p>Mobile-first opportunity discovery platform featuring Apple News-style glassmorphic navigation.</p>
+      <code>React</code> <code>TypeScript</code> <code>Firebase</code>
     </td>
   </tr>
 </table>
