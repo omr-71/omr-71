@@ -28,7 +28,9 @@
 <!-- 4. LIVE 3D TROPHIES -->
 <h3 align="center">🏆 Live GitHub Achievements</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omr-71&theme=radical&column=7&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <a href="https://github.com/omr-71">
+    <img src="https://github-profile-trophy.vercel.app/?username=omr-71&theme=tokyonight&column=7&no-bg=true&margin-w=15&margin-h=15" alt="Om's Trophies" />
+  </a>
 </div>
 
 <br/>
