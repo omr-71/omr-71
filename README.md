@@ -1,6 +1,7 @@
 <!-- 1. YOUR CUSTOM 3D BANNER -->
+<!-- 1. YOUR CUSTOM 3D BANNER -->
 <div align="center">
-  <img src="3d-banner.png" alt="Om Labhade" width="100%" style="border-radius: 15px;" />
+  <img src="Gemini_Generated_Image_68j08x68j08x68j0.png" alt="Om Labhade" width="100%" style="border-radius: 15px;" />
 </div>
 
 <br/>
